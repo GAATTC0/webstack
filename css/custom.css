@@ -271,7 +271,7 @@ blockquote p a,
 
 /* 鼠标图标 -----------------------------------------------------------------------开始 */
 body {
-  cursor: url(https://cdn.jsdelivr.net/gh/hassanblog/CDN/img/cursor.png),
+  cursor: url("/1.cur"),
     default !important;
 }
 
@@ -281,7 +281,7 @@ a:hover,
 button:hover,
 #nav .site-page:hover,
 .xe-widget.xe-conversations.box2.label-info {
-  cursor: url(https://cdn.jsdelivr.net/gh/hassanblog/CDN/img/cursor_puppy.png),
+  cursor: url("/2.cur"),
     pointer !important;
 }
 
@@ -289,7 +289,7 @@ button:hover,
 #footer-wrap a:hover,
 #pagination .page-number:hover,
 input#txt {
-  cursor: url(https://cdn.jsdelivr.net/gh/hassanblog/CDN/img/cursor_stitch.png),
+  cursor: url("/3.cur"),
     pointer !important;
 }
 /* 鼠标图标 -----------------------------------------------------------------------结束 */
